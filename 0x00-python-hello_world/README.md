@@ -1,4 +1,4 @@
-# SCRIPTS & PYTHON INTRODUCTION
+ SCRIPTS & PYTHON INTRODUCTION
 
 ![alx](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/231/Flyingcircus_2.jpg)
 
@@ -12,3 +12,4 @@
 
 
 ![confused](https://content.techgig.com/thumb/msid-79425257,width-460,resizemode-4/Top-4-Python-concepts-that-beginner-programmers-are-confused-about.jpg?132269)
+
